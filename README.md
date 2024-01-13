@@ -56,6 +56,3 @@ The script will log in to your Instagram account, upload the specified media fil
 
 This script should be used responsibly and in compliance with Instagram's terms of service. Excessive automation may lead to account suspension.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
